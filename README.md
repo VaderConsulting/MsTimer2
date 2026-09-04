@@ -4,7 +4,8 @@ Run an interrupt function using Timer2. Original author: Javier Valencia. This i
 
 **Language:** C++ / Arduino  
 **Target:** Arduino (*)  
-**Output:** Arduino library
+**Output:** Arduino library  
+**Source last updated:** 2018-05-21
 
 ## Solution structure
 
