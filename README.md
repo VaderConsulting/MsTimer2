@@ -17,6 +17,10 @@ Run an interrupt function using Timer2. Original author: Javier Valencia. This i
 
 Copy this folder into the Arduino `libraries` directory as `MsTimer2` and include the library headers from a sketch.
 
+## Requirements
+
+- Arduino IDE
+
 ## Attribution and provenance
 
 - **Original author / maintainer:** Javier Valencia
